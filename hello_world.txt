@@ -1,0 +1,2 @@
+Hello Everyone!
+My name is Corey and this is my first time using Git!
